@@ -1,4 +1,4 @@
-# Laura C  
+# Laura   
 
 ⚖️ Law Graduate → 💻 Future Software Engineer  
 📍 London, UK  
