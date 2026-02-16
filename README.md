@@ -1,7 +1,6 @@
- Hi 👋 I'm Laura
+# Laura C  
 
-### ⚖️ Law Graduate → 💻 Future Software Engineer
-
+⚖️ Law Graduate → 💻 Future Software Engineer  
 📍 London, UK  
 🌱 Transitioning into full-stack development  
 🤝 Volunteer Web Developer at a disability support charity  
