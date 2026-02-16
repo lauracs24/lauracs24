@@ -1,4 +1,4 @@
-# Hi 👋 I'm Laura
+ Hi 👋 I'm Laura
 
 ### ⚖️ Law Graduate → 💻 Future Software Engineer
 
@@ -73,9 +73,16 @@ I’m currently working towards becoming a **full-stack software engineer**, wit
 
 ---
 
-## 📊 LinkedIn profile
+## 🔗 Connect With Me
 
-[![Linkedin](https://github-readme-stats.vercel.app/api?username=lauracs24&show_icons=true&theme=tokyonight)](https://www.linkedin.com/in/laura-c-a441851b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+<p align="left">
+  <a href="https://www.linkedin.com/in/laura-c-a441851b9/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:isabelleprice247@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
