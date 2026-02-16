@@ -12,7 +12,7 @@
 
 I’m a career-switcher moving from law into software development, driven by a passion for building impactful, user-focused applications.
 
-With a background in legal analysis and criminological research from Cambridge, I bring strong problem-solving, attention to detail, and structured thinking into tech.
+With a background in legal analysis, I bring strong problem-solving, attention to detail, and structured thinking into tech.
 
 I’m currently developing my skills in full-stack development, with a focus on creating real-world applications that improve accessibility and social impact.
 
@@ -30,7 +30,7 @@ I’m currently developing my skills in full-stack development, with a focus on 
 ## 🛠️ Tech Stack
 
 ### Languages
-HTML • CSS • JavaScript • Java • SQL • Python
+HTML • CSS • JavaScript • Java 
 
 ### Tools & Technologies
 Git • GitHub • VS Code • Node.js • React (basic)
@@ -73,9 +73,9 @@ I’m currently working towards becoming a **full-stack software engineer**, wit
 
 ---
 
-## 📊 GitHub Stats
+## 📊 LinkedIn profile
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lauracs24&show_icons=true&theme=tokyonight)
+[![Linkedin](https://github-readme-stats.vercel.app/api?username=lauracs24&show_icons=true&theme=tokyonight)](https://www.linkedin.com/in/laura-c-a441851b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ---
 
