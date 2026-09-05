@@ -64,8 +64,6 @@ Focus areas:
 
 ## 🎯 Career Goals
 
-I’m currently working towards becoming a **full-stack software engineer**, with a strong interest in:
-
 ✨ Building real-world applications  
 ✨ Accessibility-focused development  
 ✨ Technology for social impact  
