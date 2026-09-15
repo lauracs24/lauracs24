@@ -1,15 +1,15 @@
 # Laura   
 
-⚖️ Law Graduate → 💻 Future Software Engineer  
+  
 📍 London, UK  
-🌱 Transitioning into full-stack development  
+🌱 Transitioning into development  
 🤝 Volunteer Web Developer at a disability support charity  
 
 ---
 
 ## 🚀 About Me
 
-I’m a career-switcher moving from law into software development, driven by a passion for building impactful, user-focused applications.
+I’m a career-switcher moving from law into development, driven by a passion for building impactful, user-focused applications.
 
 With a background in legal analysis, I bring strong problem-solving, attention to detail, and structured thinking into tech.
 
